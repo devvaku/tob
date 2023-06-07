@@ -1,0 +1,4 @@
+/*
+  Main.js
+  Entry point for project
+*/
